@@ -9,4 +9,4 @@ A chat bot that can create aliases for API requests and tie them to in-chat slas
 
 [Our team repo](https://github.com/Back-End-Masters/api-utility-bot)
 
-![UML]()
+![UML](brave_rraSSwIpCS.png)
