@@ -87,5 +87,5 @@
 
 ## Project Management
 
-[Learn Black History Trello Board](https://trello.com/b/v7wIQYZ5/learn-black-history-planning)
+
 
